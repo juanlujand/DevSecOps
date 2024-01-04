@@ -1,5 +1,5 @@
 # Vulnado - Intentionally Vulnerable Java Application
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/juanlujand/DevSecOps) (https://securityscorecards.dev/viewer/?uri=github.com/juanlujand/DevSecOps)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/juanlujand/DevSecOps/badge) (https://securityscorecards.dev/viewer/?uri=github.com/juanlujand/DevSecOps)
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
