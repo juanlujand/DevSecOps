@@ -1,4 +1,5 @@
 # Vulnado - Intentionally Vulnerable Java Application
+
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/juanlujand/DevSecOps/badge)](https://securityscorecards.dev/viewer/?uri=github.com/juanlujand/DevSecOps)
 
 
